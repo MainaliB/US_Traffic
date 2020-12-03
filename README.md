@@ -1,5 +1,24 @@
 # US_Traffic
-This repo contains all of the work done to create a classification model that predicts the severity of a traffic accident
+**Goal:** 
+
+    To create a classification model that can predict the severity of the traffic accident based on various variables
+
+### Phases
+
+  **Planning**
+
+  **Acquire**
+
+  **Prepare**
+
+  **Explore**
+
+  **Model**
+
+  **Evaluate**
+
+  **Conclusion**
+
 
 Data Dictionary
 | Attribute | Description                                         |                                                                                                                                                                                                                                 |
