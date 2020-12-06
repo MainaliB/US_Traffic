@@ -13,7 +13,7 @@
 - Conclusion
 
 
-Data Dictionary
+### Data Dictionary
 | Attribute | Description                                         |                                                                                                                                                                                                                                 |
 |:---------:|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     1     |                             ID                         |This is a unique identifier of the accident record.|
@@ -65,3 +65,20 @@ Data Dictionary
 |     47    |                    Civil_Twilight                   | Shows the period of day (i.e. day or night) based on civil twilight.                                                                                                                                                            |
 |     48    |                  Nautical_Twilight                  | Shows the period of day (i.e. day or night) based on nautical twilight.                                                                                                                                                         |
 |     49    |                Astronomical_Twilight                | Shows the period of day (i.e. day or night) based on astronomical twilight.                                                                                                                                                     |
+
+### Planning
+
+### Acquire
+
+### Prepare
+
+### Explore
+
+### Model
+
+### Evaluate
+
+### Conclusion
+
+### Next steps
+
