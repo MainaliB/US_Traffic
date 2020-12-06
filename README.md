@@ -4,20 +4,13 @@
     To create a classification model that can predict the severity of the traffic accident based on various variables
 
 ### Phases
-
-  **Planning**
-
-  **Acquire**
-
-  **Prepare**
-
-  **Explore**
-
-  **Model**
-
-  **Evaluate**
-
-  **Conclusion**
+- Planning
+- Acquire
+- Prepare
+- Explore
+- Model
+- Evaluate
+- Conclusion
 
 
 Data Dictionary
