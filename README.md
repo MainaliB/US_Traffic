@@ -74,19 +74,47 @@
 
 
 ### Acquire
-- Download data from Kaggle
-- Filter data to get whats needed
-- Save a copy of the data locally
+-	Acquired data from Kaggle
+-	Initially had 3 million observations
+-	Filtered the data down by state
+-	Chose only to work with California data
+-	Saved the copy of the data on the local machine
+-	Prepared a acquire.py module
 
 ### Prepare
+-	Read the data
+-	Dropped redundant columns
+-	Normalized the column names
+-	Dropped na
+-	Extracted features like the day, month, and duration
+-	Data conversion from boolean type to int type
+-	Generated dummy variables for some of the categorical variables
+-	Prepared a prepare.py module to store all of the functions
+
 
 ### Explore
+-	Explored relationship between independent and dependent variables
+-	Density plot of all of the numeric variables
+-  Count plot of the categorical varibales
+-  Plotted lat and long after filtering the data by different class of target var to identify the hotspots 
+
+
 
 ### Model
+- Selected 15 features using selectKBest
+- Used various classification algorithms to create models
+- Trained these models on train data set
+
 
 ### Evaluate
+- Models were evaluated using their accuracy
+- RandomForest performed consistenly better than other models in all train, validate, and test data
+- RandomFores is the final model
 
-### Conclusion
+
 
 ### Next steps
+- Do the entire project again but using all of the 3 million observations
+- Explore if KNN can be used without having to wait 10+ hours to train the model
+- Explore other classification algorithms to see if they can imporve accuracy
 
