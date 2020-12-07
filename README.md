@@ -67,8 +67,16 @@
 |     49    |                Astronomical_Twilight                | Shows the period of day (i.e. day or night) based on astronomical twilight.                                                                                                                                                     |
 
 ### Planning
+- Look for project ideas
+- Find the data for the project
+- Explore data to identify the target variable
+- Outline steps to proceed forward
+
 
 ### Acquire
+- Download data from Kaggle
+- Filter data to get whats needed
+- Save a copy of the data locally
 
 ### Prepare
 
